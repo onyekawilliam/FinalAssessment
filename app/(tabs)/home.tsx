@@ -32,7 +32,7 @@ export default function HomeScreen() {
              <Ionicons name="person" size={20} color={XendColors.textSecondary} />
           </View>
           <View>
-            <Text style={styles.userTitle}>Hi, @Michael_Chuks</Text>
+            <Text style={styles.userTitle}>Hi, @Ngene_William</Text>
             <Text style={styles.userSubtitle}>Start saving now</Text>
           </View>
         </View>

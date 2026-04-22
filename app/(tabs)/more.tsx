@@ -34,7 +34,7 @@ export default function MoreScreen() {
           <View style={styles.avatarCircle}>
             <Ionicons name="person" size={30} color="#A0A0A0" />
           </View>
-          <Text style={styles.userName}>@Michael_Chuks</Text>
+          <Text style={styles.userName}>@Ngene_William</Text>
           <TouchableOpacity style={styles.copyButton}>
             <Ionicons name="copy-outline" size={18} color="#A0A0A0" />
           </TouchableOpacity>
